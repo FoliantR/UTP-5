@@ -1,0 +1,5 @@
+Ivanov Victor 13.05.2003 Lenina,8 798055 IU4-KF 2
+Kerichev Misha 03.12.2003 Mira,7 798770 IU5-KF 3
+Vaflef Igor 18.08.2004 Pobedi,3 795566 IU4-KF 3
+Potapov Jack 23.05.2005 Kirova,5 775432 IU5-KF 4
+Kurichev Sergey 14.12.2004 Pobedi,4 776456 IU3-KF 3
